@@ -13,7 +13,7 @@ Una volta superato un livello, si passa a quello successivo con una difficoltà 
 Alla fine della partita compare una schermata con il numero delle parole formate e il rispettivo punteggio 
 
 ## BLOCCHI DIAGRAMMA DI FLUSSO
-BLOCCO INIZZIALIZZAZIONE: questo è il blocco che indica la creazione dell'interfaccia all'inizio di ogni round.
+BLOCCO INIZIALIZZAZIONE: questo è il blocco che indica la creazione dell'interfaccia all'inizio di ogni round.
 
 ## CODING-MATEMATICA
 Nella compresenza matematica-coding, quest'anno, abbiamo pensato questo gioco basandoci sulle competenze acquisite del calcolo combinatorio,
