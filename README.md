@@ -4,12 +4,12 @@
 ## DESCRIZIONE GIOCO
 Il nostro è un gioco che ha come obiettivo quello di formare delle parole, con delle lettere casuali poste in una griglia.
 Il giocatore ha due minuti a disposizione per formare il maggior numero di parole di senso compiuto con le sedici lettere a disposizione nella griglia 4×4. 
-Prima iniziare il gioco, l’utente può scegliere la difficoltà, che si dividono in “principiante” “media” “esperto”.
 A ciascuna lettera è assegnato un punteggio in base alla difficoltà di inserirla all'interno di parole di senso compiuto.
 Le parole devono essere costituite da almeno 2 lettere ed essere adiacenti.
-Il punteggio aumenta in base alla difficoltà e alla lunghezza della parola, se la parola è sbagliata il giocatore perde 15 punti, se la parola è giusta, il display si illumina di vari colori, se è sbagliata di rosso. 
-Il gioco è comporto da 4 round, alla fine dei quali il giocatore con il punteggio maggiore si aggiudicherà la vittoria.
-Una volta superato un livello, si passa a quello successivo con una difficoltà maggiore,per ogni partita vinta, il giocatore riceverà dei punti premio speciali che gli possono permettere di giocare a delle modalità speciali del gioco.
+Il punteggio aumenta in base alla difficoltà e alla lunghezza della parola, se la parola è giusta, il display si illumina di vari colori, e il giocatore guadagna 20 punti, se la parola è sbagliata il giocatore perde 15 punti, eil display si illumina di rosso.
+Nella griglia possono comparire delle lettere che hanno un colore diverso rispetto alle altre, queste, se inserite in una parola faranno guadagnare al giocatore il doppio dei punti della parola in cui è stata inserita.
+Il gioco è composto da 4 round, alla fine dei quali il giocatore con il punteggio maggiore si aggiudicherà la vittoria.
+Una volta superato un livello, si passa a quello successivo con una difficoltà maggiore, per ogni partita vinta, il giocatore riceverà dei punti premio speciali che gli possono permettere di giocare a delle modalità speciali del gioco. Se il giocatore non supera il livello il snumero dei punti che ha acquisito fino a quel momento rimane inavriato.
 Alla fine della partita compare una schermata con il numero delle parole formate e il rispettivo punteggio 
 
 ## BLOCCHI DIAGRAMMA DI FLUSSO
