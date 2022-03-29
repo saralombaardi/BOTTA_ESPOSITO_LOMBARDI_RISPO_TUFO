@@ -2,7 +2,7 @@
 
 
 ## DESCRIZIONE GIOCO
-Ruzzle è un gioco che ha come obiettivo quello di formare delle parole, con delle lettere casuali poste in una griglia. 
+Il nostro è un gioco che ha come obiettivo quello di formare delle parole, con delle lettere casuali poste in una griglia.
 Il giocatore ha due minuti a disposizione per formare il maggior numero di parole di senso compiuto con le sedici lettere a disposizione nella griglia 4×4. 
 Prima iniziare il gioco, l’utente può scegliere la difficoltà, che si dividono in “principiante” “media” “esperto”.
 A ciascuna lettera è assegnato un punteggio in base alla difficoltà di inserirla all'interno di parole di senso compiuto.
@@ -10,11 +10,14 @@ Le parole devono essere costituite da almeno 2 lettere ed essere adiacenti.
 Il punteggio aumenta in base alla difficoltà e alla lunghezza della parola, se la parola è sbagliata il giocatore perde 15 punti, se la parola è giusta, il display si illumina di vari colori, se è sbagliata di rosso. 
 Il gioco è comporto da 4 round, alla fine dei quali il giocatore con il punteggio maggiore si aggiudicherà la vittoria.
 Una volta superato un livello, si passa a quello successivo con una difficoltà maggiore,per ogni partita vinta, il giocatore riceverà dei punti premio speciali che gli possono permettere di giocare a delle modalità speciali del gioco.
-Alla fine della partita compare una schermata con il numero delle parole formate e il relativo punteggio oltre al risultato dell’avversario. 
+Alla fine della partita compare una schermata con il numero delle parole formate e il rispettivo punteggio 
+
+## BLOCCHI DIAGRAMMA DI FLUSSO
+BLOCCO INIZZIALIZZAZIONE: questo è il blocco che indica la creazione dell'interfaccia all'inizio di ogni round.
 
 ## CODING-MATEMATICA
 Nella compresenza matematica-coding, quest'anno, abbiamo pensato questo gioco basandoci sulle competenze acquisite del calcolo combinatorio,
-grazie alla professoressa Tripepi. Abbiamo quindi pensato che ruzzle fosse il gioco che più si avvicinasse al calcolo combinatorio e quindi lo abbiamo messo in pratica tramite questo gioco.
+grazie alla professoressa Tripepi. Abbiamo poi pensato che Ruzzle fosse il gioco perfetto per mettere in pratica le competenze acquisite.
 
 # CALCOLO COMBINATORIO
 Il calcolo combinatorio, in matematica, fa parte dello studio della probabilità e si occupa dello studio dei metodi per raggruppare un numero finito di elementi, e che si pone l'obiettivo di contare il numero di possibili raggruppamenti degli elementi per ciascun metodo.
