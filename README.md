@@ -7,7 +7,7 @@ Il giocatore ha due minuti a disposizione per formare il maggior numero di parol
 A ciascuna lettera è assegnato un punteggio in base alla difficoltà di inserirla all'interno di parole di senso compiuto.
 Le parole devono essere costituite da almeno 2 lettere ed essere adiacenti.
 Prima di iniziare la partita il giocatore può scegliere tra 3 difficoltà diverse.
-Il punteggio aumenta in base alla difficoltà e alla lunghezza della parola, se la parola è giusta, il display si illumina di vari colori, e il giocatore guadagna 20 punti, se la parola è sbagliata il giocatore perde 15 punti, eil display si illumina di rosso.
+Il punteggio aumenta in base alla difficoltà e alla lunghezza della parola, se la parola è giusta, il display si illumina di vari colori, e il giocatore guadagna 20 punti, se la parola è sbagliata il giocatore perde 15 punti, e il display si illumina di rosso.
 Nella griglia possono comparire delle lettere che hanno un colore diverso rispetto alle altre, queste, se inserite in una parola faranno guadagnare al giocatore il doppio dei punti della parola in cui è stata inserita.
 Il gioco è composto da 4 round, alla fine dei quali se il giocatore ha ottenuto un punteggio adeguato, potrà accedere al livello successivo.
 Una volta superato un livello, si passa a quello successivo con una difficoltà maggiore, per ogni partita vinta, il giocatore riceverà dei punti premio speciali che gli possono permettere di giocare a delle modalità speciali del gioco. Se il giocatore non supera il livello il snumero dei punti che ha acquisito fino a quel momento rimane inavriato.
