@@ -16,8 +16,8 @@ Alla fine della partita compare una schermata con il numero delle parole formate
 ## BLOCCHI DIAGRAMMA DI FLUSSO
 BLOCCO INIZIALIZZAZIONE: questo è il blocco che indica la creazione dell'interfaccia all'inizio di ogni round, che contiene la griglia, il timer, il numero dei punti fatto dal giocatore, una tabella con le parole trovate.
 
-BLOCCHI DIFFICOLTA': principiante: il giocatore avrà 6 minuti per raggiungere il punteggio
-intermedio: il giocatore disporrà di 4 minuti
+BLOCCHI DIFFICOLTA': principiante: il giocatore avrà 6 minuti per raggiungere il punteggio.
+intermedio: il giocatore disporrà di 4 minuti.
 difficile: il giocatore disporrà di 3 minuti.
 
 ## CODING-MATEMATICA
