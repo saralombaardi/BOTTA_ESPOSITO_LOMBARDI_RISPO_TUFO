@@ -2,16 +2,21 @@
 
 
 ## DESCRIZIONE GIOCO
-Il nostro è un gioco che ha come obiettivo quello di formare delle parole, con delle lettere casuali poste in una griglia sottostante e quindi,provare a raggiungere il punteggio maggiore possibile.
-Il giocatore ha due minuti a disposizione per formare il maggior numero di parole di senso compiuto con le sedici lettere a disposizione nella griglia sottostante 4×4. 
-A ciascuna lettera è assegnato un punteggio in base alla difficoltà di inserirla all'interno di parole di senso compiuto.
-Le parole devono essere costituite da almeno 2 lettere ed essere adiacenti.
-Prima di iniziare la partita il giocatore può scegliere tra 3 difficoltà diverse: principante, intermedio e difficile.
-Il punteggio aumenta in base alla difficoltà e alla lunghezza della parola, se la parola è giusta, il display si illumina di vari colori, il punteggio minimo è quello di 20 punti, se la parola è sbagliata il giocatore perde 15 punti, e il display si illumina di rosso.
+Il nostro è un gioco che ha come obiettivo quello di formare delle parole, con delle lettere casuali poste in una griglia sottostante e quindi,provare a raggiungere il punteggio maggiore possibile. Il giocatore si troverà subito davanti ad una scelta:giocare da solo,giocare con un avversario casuale scelto dal computer,o giocare magari con un proprio amico,dovendo però inserire il codice della partita.
+Prima di iniziare la partita il giocatore può scegliere tra 3 livelli diverse: principante, intermedio e difficile.
+Ciò che cambia in questi tre livelli,sarà la DIFFICOLTA'.
+Nel livello principante il giocatore dovrà raggiungere una soglia di 20 punti per avanzare di livello.
+In quello intermedio dovrà raggiungere i 50 punti, e in quello dificile 100 punti.
+Qualsiasi siano le sue scelte,una volta premuto il tasto Inizio,scatterà automaticamente un timer di due minuti nel quale dovrà cercare di formare il maggior numero di parole di senso compiuto con le 16 lettere sviluppate dal gioco,situate nella griglia 4x4 in basso.
 Nella griglia possono comparire delle lettere che hanno un colore diverso rispetto alle altre, queste, se inserite in una parola faranno guadagnare al giocatore il doppio dei punti della parola in cui è stata inserita.
-Il gioco è composto da 4 round, alla fine dei quali se il giocatore ha ottenuto un punteggio adeguato, potrà accedere al livello successivo.
-Una volta superato un livello, si passa a quello successivo con una difficoltà maggiore, per ogni partita vinta, il giocatore riceverà dei punti premio speciali che gli possono permettere di giocare a delle modalità speciali del gioco. Se il giocatore non supera il livello il snumero dei punti che ha acquisito fino a quel momento rimane inavriato.
-Alla fine della partita compare una schermata con il numero delle parole formate e il rispettivo punteggio 
+A ciascuna delle parole sviluppate è assegnato un punteggio diverso a seconda della difficoltà che c'era nel combinarla.
+Le parole,per essere accettate,devono essere costituite da almeno 2 lettere.
+Di conseguenza il punteggio aumenta in base alla difficoltà e alla lunghezza della parola.
+Se la parola è ritenuta giusta, il display si illumina di vari colori e al centro verrà mostrato il punteggio ottenuto.
+Se la parola è sbagliata, il giocatore perderà 2 punti, e il display si illumina di rosso.
+Il gioco è composto da 3 round, alla fine dei quali se il giocatore ha ottenuto un punteggio adeguato, potrà accedere,se vuole, al livello successivo che avrà difficoltà maggiore.
+Per ogni partita vinta, il giocatore riceverà dei punti premio speciali che gli possono permettere di giocare a delle modalità speciali del gioco. Se il giocatore non supera il livello il numero dei punti che ha acquisito fino a quel momento rimane inavriato.
+Alla fine della partita compare una schermata con il numero delle parole formate e il rispettivo punteggio ottenuto.
 
 ## BLOCCHI DIAGRAMMA DI FLUSSO
 BLOCCO INIZIALIZZAZIONE: questo è il blocco che indica la creazione dell'interfaccia all'inizio di ogni round, che contiene la griglia, il timer, il numero dei punti fatto dal giocatore, una tabella con le parole trovate.
