@@ -3,13 +3,13 @@
 
 ## DESCRIZIONE GIOCO
 Qualsiasi esercizio, singolo o collettivo, a cui si dedichino bambini o adulti per passatempo o svago viene chiamato gioco.
-Il gioco che abbiamo ideato è un gioco che ha come obiettivo quello di formare delle parole,servendosi di lettere casuali poste in una griglia e provare a raggiungere il punteggio maggiore possibile. Il giocatore aprirà la schermata e si troverà subito davanti ad una scelta:giocare da solo,giocare con un avversario casuale scelto dal computer,o giocare magari con un proprio amico,dovendo però inserire il codice della partita.
+Il gioco che noi abbiamo ideato, è un gioco che ha come obiettivo quello di formare delle parole,servendosi di lettere casuali poste in una griglia e provare a raggiungere il punteggio maggiore possibile. Il giocatore aprirà la schermata e si troverà subito davanti ad una scelta:giocare da solo,giocare con un avversario casuale scelto dal computer,o giocare magari con un proprio amico,dovendo però inserire il codice della partita.
 Prima di iniziare la partita il giocatore può scegliere tra 3 livelli diverse: principante, intermedio e difficile.
 Ciò che cambia in questi tre livelli,sarà la DIFFICOLTA'.
 Nel livello principante il giocatore dovrà raggiungere una soglia di 20 punti per avanzare di livello.
 In quello intermedio dovrà raggiungere i 50 punti, e in quello dificile 100 punti.
 Qualsiasi siano le sue scelte,una volta premuto il tasto Inizio,scatterà automaticamente un timer di due minuti nel quale dovrà cercare di formare il maggior numero di parole di senso compiuto con le 16 lettere sviluppate dal gioco,situate nella griglia 4x4 in basso.
-Nella griglia possono comparire delle lettere che hanno un colore diverso rispetto alle altre, queste, se inserite in una parola faranno guadagnare al giocatore il doppio dei punti della parola in cui è stata inserita.
+Nella griglia possono comparire delle lettere "arcobaleno" che ovviamente saranno in risalto rispetto alle altre:queste, se il giocatore riesce a inserirle in una parola guadagnerà il doppio dei punti di quanti ne avrebbe accumulati normalmente la parola inserita.
 A ciascuna delle parole sviluppate è assegnato un punteggio diverso a seconda della difficoltà che c'era nel combinarla.
 Le parole,per essere accettate,devono essere costituite da almeno 2 lettere.
 Di conseguenza il punteggio aumenta in base alla difficoltà e alla lunghezza della parola.
