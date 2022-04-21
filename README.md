@@ -3,14 +3,16 @@
 
 ## DESCRIZIONE GIOCO
 Qualsiasi esercizio, singolo o collettivo, a cui si dedichino bambini o adulti per passatempo o svago viene chiamato gioco.
-Il gioco che noi abbiamo ideato, è un gioco che ha come obiettivo quello di formare delle parole,servendosi di lettere casuali poste in una griglia e provare a raggiungere il punteggio maggiore possibile. Il giocatore aprirà la schermata e si troverà subito davanti ad una scelta:giocare da solo,giocare con un avversario casuale scelto dal computer,o giocare magari con un proprio amico,dovendo però inserire il codice della partita.
+Il gioco che noi abbiamo ideato, è un gioco che ha come obiettivo quello di formare delle parole, servendosi di lettere casuali poste in una griglia e provare a raggiungere il punteggio maggiore possibile. Il giocatore aprirà la schermata e si troverà subito davanti ad una scelta: giocare da solo,giocare con un avversario casuale scelto dal computer,o giocare magari con un proprio amico, dovendo però inserire il codice della partita.
 Prima di iniziare la partita il giocatore può scegliere tra 3 livelli diverse: principante, intermedio e difficile.
 Ciò che cambia in questi tre livelli,sarà la DIFFICOLTA'.
 Nel livello principante il giocatore dovrà raggiungere una soglia di 20 punti per avanzare di livello.
 In quello intermedio dovrà raggiungere i 50 punti, e in quello dificile 100 punti.
-Qualsiasi siano le sue scelte,una volta premuto il tasto Inizio,scatterà automaticamente un timer di due minuti nel quale dovrà cercare di formare il maggior numero di parole di senso compiuto con le 16 lettere sviluppate dal gioco,situate nella griglia 4x4 in basso.
-Nella griglia possono comparire delle lettere "arcobaleno" che ovviamente saranno in risalto rispetto alle altre:queste, se il giocatore riesce a inserirle in una parola guadagnerà il doppio dei punti di quanti ne avrebbe accumulati normalmente la parola inserita.
+Qualsiasi siano le sue scelte, una volta premuto il tasto Inizio, scatterà automaticamente un timer di due minuti nel quale dovrà cercare di formare il maggior numero di parole di senso compiuto con le 16 lettere sviluppate dal gioco,situate nella griglia 4x4 in basso.
+Nella griglia possono comparire delle lettere "arcobaleno" che ovviamente saranno in risalto rispetto alle altre: queste, se il giocatore riesce a inserirle in una parola guadagnerà il doppio dei punti di quanti ne avrebbe accumulati normalmente la parola inserita.
 A ciascuna delle parole sviluppate è assegnato un punteggio diverso a seconda della difficoltà che c'era nel combinarla.
+
+##REGOLE GIOCO
 Se la parola formata ha 2 lettere il punteggio sarà di 3 punti.
 Le parole,per essere accettate,devono essere costituite da almeno 2 lettere.
 Se la parola formata ha 2 o 3 lettere il punteggio sarà di 5 punti.
@@ -27,10 +29,14 @@ Alla fine della partita compare una schermata con il numero delle parole formate
 
 
 ## SALVATAGGIO DATI
-Per iniziare a giocare il giocatore si registrerà creando un proprio account. Il primo salvataggio che avviene è proprio questo: quello degli account creati,che si potranno visualizzare cronologicamente. Inoltre il gioco da la possibilità di ricordare e salvare i dati. Questa funzione è utilizzabile sia nella partita corrente,memorizzando il punteggio,oppure di salvare e dà anche la possibilità di salvare  legate al proprio account, come ad esempio le partite giocate, i punti totali, le vittorie e il livello raggiunto. 
+Per iniziare a giocare il giocatore si registrerà creando un proprio account. Il primo salvataggio che avviene è proprio questo: quello degli account creati. Inoltre il gioco da la possibilità di ricordare e salvare i dati. Questa funzione è utilizzabile sia nella partita attuale, memorizzando il punteggio, ma dà anche la possibilità di salvare informazioni legate al proprio account, come le partite giocate, i punti totali, le vittorie e il livello raggiunto. 
 
 ## BLOCCHI DIAGRAMMA DI FLUSSO
 BLOCCO INIZIALIZZAZIONE: questo è il blocco che indica la creazione dell'interfaccia all'inizio di ogni round, che contiene la griglia, il timer, il numero dei punti fatto dal giocatore, una tabella con le parole trovate.
+
+BLOCCHI MODALITA': singolo: il giocatore giocherà la partita in solitariamente
+casuale: un'avversario viene selezionato casualmente dal computer
+amico: la partita viene svolta contro un conoscente, che potrà accedere ad essa grazie ad un codice.
 
 BLOCCHI DIFFICOLTA': principiante: il giocatore avrà 6 minuti per raggiungere il punteggio.
 intermedio: il giocatore disporrà di 4 minuti.
