@@ -25,6 +25,10 @@ Per ogni partita vinta, il giocatore riceverà dei punti premio speciali che gli
 Se il giocatore non supera il livello il numero dei punti che ha acquisito fino a quel momento rimarrà inavriato.
 Alla fine della partita compare una schermata con il numero delle parole formate e il rispettivo punteggio ottenuto.
 
+
+## SALVATAGGIO DATI
+Per iniziare a giocare il giocatore si registrerà creando un proprio account. Il primo salvataggio che avviene è proprio questo: quello degli account creati,che si potranno visualizzare cronologicamente. Inoltre il gioco da la possibilità di ricordare e salvare i dati. Questa funzione è utilizzabile sia nella partita corrente,memorizzando il punteggio,oppure di salvare e dà anche la possibilità di salvare  legate al proprio account, come ad esempio le partite giocate, i punti totali, le vittorie e il livello raggiunto. 
+
 ## BLOCCHI DIAGRAMMA DI FLUSSO
 BLOCCO INIZIALIZZAZIONE: questo è il blocco che indica la creazione dell'interfaccia all'inizio di ogni round, che contiene la griglia, il timer, il numero dei punti fatto dal giocatore, una tabella con le parole trovate.
 
