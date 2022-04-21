@@ -2,7 +2,8 @@
 
 
 ## DESCRIZIONE GIOCO
-Il nostro è un gioco che ha come obiettivo quello di formare delle parole, con delle lettere casuali poste in una griglia sottostante e quindi,provare a raggiungere il punteggio maggiore possibile. Il giocatore si troverà subito davanti ad una scelta:giocare da solo,giocare con un avversario casuale scelto dal computer,o giocare magari con un proprio amico,dovendo però inserire il codice della partita.
+Qualsiasi esercizio, singolo o collettivo, a cui si dedichino bambini o adulti per passatempo o svago viene chiamato gioco.
+Il gioco che abbiamo ideato è un gioco che ha come obiettivo quello di formare delle parole,servendosi di lettere casuali poste in una griglia e provare a raggiungere il punteggio maggiore possibile. Il giocatore aprirà la schermata e si troverà subito davanti ad una scelta:giocare da solo,giocare con un avversario casuale scelto dal computer,o giocare magari con un proprio amico,dovendo però inserire il codice della partita.
 Prima di iniziare la partita il giocatore può scegliere tra 3 livelli diverse: principante, intermedio e difficile.
 Ciò che cambia in questi tre livelli,sarà la DIFFICOLTA'.
 Nel livello principante il giocatore dovrà raggiungere una soglia di 20 punti per avanzare di livello.
@@ -14,7 +15,7 @@ Le parole,per essere accettate,devono essere costituite da almeno 2 lettere.
 Di conseguenza il punteggio aumenta in base alla difficoltà e alla lunghezza della parola.
 Se la parola è ritenuta giusta, il display si illumina di vari colori e al centro verrà mostrato il punteggio ottenuto.
 Se la parola è sbagliata, il giocatore perderà 2 punti, e il display si illumina di rosso.
-Il gioco è composto da 3 round, alla fine dei quali se il giocatore ha ottenuto un punteggio adeguato, potrà accedere,se vuole, al livello successivo che avrà difficoltà maggiore.
+Il gioco è composto da 3 round compoti da 10 livelli, alla fine dei quali se il giocatore ha ottenuto un punteggio adeguato, potrà accedere,se vuole, al round successivo, che avrà difficoltà maggiore.
 Per ogni partita vinta, il giocatore riceverà dei punti premio speciali che gli possono permettere di giocare a delle modalità speciali del gioco. Se il giocatore non supera il livello il numero dei punti che ha acquisito fino a quel momento rimane inavriato.
 Alla fine della partita compare una schermata con il numero delle parole formate e il rispettivo punteggio ottenuto.
 
