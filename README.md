@@ -2,8 +2,8 @@
 
 
 ## DESCRIZIONE GIOCO
-Il nostro è un gioco che ha come obiettivo quello di formare delle parole, con delle lettere casuali poste in una griglia e raggiungere il punteggio maggior.
-Il giocatore ha due minuti a disposizione per formare il maggior numero di parole di senso compiuto con le sedici lettere a disposizione nella griglia 4×4. 
+Il nostro è un gioco che ha come obiettivo quello di formare delle parole, con delle lettere casuali poste in una griglia sottostante e quindi,provare a raggiungere il punteggio maggiore possibile.
+Il giocatore ha due minuti a disposizione per formare il maggior numero di parole di senso compiuto con le sedici lettere a disposizione nella griglia sottostante 4×4. 
 A ciascuna lettera è assegnato un punteggio in base alla difficoltà di inserirla all'interno di parole di senso compiuto.
 Le parole devono essere costituite da almeno 2 lettere ed essere adiacenti.
 Prima di iniziare la partita il giocatore può scegliere tra 3 difficoltà diverse: principante, intermedio e difficile.
@@ -26,7 +26,7 @@ grazie alla professoressa Tripepi. Abbiamo poi pensato che Ruzzle fosse il gioco
 
 # CALCOLO COMBINATORIO
 Il calcolo combinatorio, in matematica, fa parte dello studio della probabilità e si occupa dello studio dei metodi per raggruppare un numero finito di elementi, e che si pone l'obiettivo di contare il numero di possibili raggruppamenti degli elementi per ciascun metodo.
-Nel calcolo combinatorio abbiamo: 
+Il calcolocombinatorio studia i raggruppamenti che si possono fare con un dato numero( n )di oggetti disposti su un dato numero di (k) posti. 
 
 PERMUTAZIONI: sono i raggruppamenti realizzati quando il numero di oggetti è uguale al numero dei posti e differiscono per l'ordine con cui si dispongono. 
 Le permutazioni possono essere con ripetizioni di oggetti o senza 
