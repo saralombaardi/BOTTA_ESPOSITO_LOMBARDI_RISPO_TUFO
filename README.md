@@ -12,7 +12,7 @@ Qualsiasi siano le sue scelte, una volta premuto il tasto Inizio, scatterà auto
 Nella griglia possono comparire delle lettere "arcobaleno" che ovviamente saranno in risalto rispetto alle altre: queste, se il giocatore riesce a inserirle in una parola guadagnerà il doppio dei punti di quanti ne avrebbe accumulati normalmente la parola inserita.
 A ciascuna delle parole sviluppate è assegnato un punteggio diverso a seconda della difficoltà che c'era nel combinarla.
 
-##REGOLE GIOCO
+## REGOLE GIOCO
 Se la parola formata ha 2 lettere il punteggio sarà di 3 punti.
 Le parole,per essere accettate,devono essere costituite da almeno 2 lettere.
 Se la parola formata ha 2 o 3 lettere il punteggio sarà di 5 punti.
@@ -29,7 +29,8 @@ Alla fine della partita compare una schermata con il numero delle parole formate
 
 
 ## SALVATAGGIO DATI
-Per iniziare a giocare il giocatore si registrerà creando un proprio account. Il primo salvataggio che avviene è proprio questo: quello degli account creati. Inoltre il gioco da la possibilità di ricordare e salvare i dati. Questa funzione è utilizzabile sia nella partita attuale, memorizzando il punteggio, ma dà anche la possibilità di salvare informazioni legate al proprio account, come le partite giocate, i punti totali, le vittorie e il livello raggiunto. 
+Per iniziare a giocare il giocatore si registrerà creando un proprio account. Il primo salvataggio che avviene è proprio questo: quello degli account creati. Inoltre il gioco da la possibilità di ricordare e salvare i dati. Questa funzione è utilizzabile sia nella partita attuale, memorizzando il punteggio, ma dà anche la possibilità di salvare informazioni legate al proprio account, come le partite giocate, i punti totali, le vittorie e il livello raggiunto. Nel caso in cui il giocatore si sta scontrando contro un avversario, si utilizza un'altro salvataggio che salva i dati in modo da essere confrontati e decretare un vincitore.
+
 
 ## BLOCCHI DIAGRAMMA DI FLUSSO
 BLOCCO INIZIALIZZAZIONE: questo è il blocco che indica la creazione dell'interfaccia all'inizio di ogni round, che contiene la griglia, il timer, il numero dei punti fatto dal giocatore, una tabella con le parole trovate.
