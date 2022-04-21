@@ -11,12 +11,18 @@ In quello intermedio dovrà raggiungere i 50 punti, e in quello dificile 100 pun
 Qualsiasi siano le sue scelte,una volta premuto il tasto Inizio,scatterà automaticamente un timer di due minuti nel quale dovrà cercare di formare il maggior numero di parole di senso compiuto con le 16 lettere sviluppate dal gioco,situate nella griglia 4x4 in basso.
 Nella griglia possono comparire delle lettere "arcobaleno" che ovviamente saranno in risalto rispetto alle altre:queste, se il giocatore riesce a inserirle in una parola guadagnerà il doppio dei punti di quanti ne avrebbe accumulati normalmente la parola inserita.
 A ciascuna delle parole sviluppate è assegnato un punteggio diverso a seconda della difficoltà che c'era nel combinarla.
+Se la parola formata ha 2 lettere il punteggio sarà di 3 punti.
 Le parole,per essere accettate,devono essere costituite da almeno 2 lettere.
+Se la parola formata ha 2 o 3 lettere il punteggio sarà di 5 punti.
+Se ne ha 4 o 5 si otterranno 7 punti.
+Se la parola formata ha da 6 a 9 lettere il giocatore avrà guadagnato 10 punti.
+Se la parola è formata da 10 o più lettere il giocatore oltre a ottenere 12 punti, ha a disposizione 5 secondi nei quali ogni parola che formerà sarà valutata co un punteggio doppio.
 Di conseguenza il punteggio aumenta in base alla difficoltà e alla lunghezza della parola.
 Se la parola è ritenuta giusta, il display si illumina di vari colori e al centro verrà mostrato il punteggio ottenuto.
 Se la parola è sbagliata, il giocatore perderà 2 punti, e il display si illumina di rosso.
-Il gioco è composto da 3 round compoti da 10 livelli, alla fine dei quali se il giocatore ha ottenuto un punteggio adeguato, potrà accedere,se vuole, al round successivo, che avrà difficoltà maggiore.
-Per ogni partita vinta, il giocatore riceverà dei punti premio speciali che gli possono permettere di giocare a delle modalità speciali del gioco. Se il giocatore non supera il livello il numero dei punti che ha acquisito fino a quel momento rimane inavriato.
+Il gioco è composto da 3 round composti da 10 livelli, alla fine dei quali il giocatore, potrà accedere, al round successivo, che però avrà difficoltà maggiore.
+Per ogni partita vinta, il giocatore riceverà dei punti premio speciali che gli possono permettere di giocare a delle modalità speciali del gioco.
+Se il giocatore non supera il livello il numero dei punti che ha acquisito fino a quel momento rimarrà inavriato.
 Alla fine della partita compare una schermata con il numero delle parole formate e il rispettivo punteggio ottenuto.
 
 ## BLOCCHI DIAGRAMMA DI FLUSSO
