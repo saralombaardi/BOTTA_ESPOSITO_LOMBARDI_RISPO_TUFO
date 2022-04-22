@@ -41,7 +41,7 @@ amico: la partita viene svolta contro un conoscente, che potrà accedere ad essa
 
 BLOCCHI DIFFICOLTA': principiante: il giocatore avrà 6 minuti per raggiungere il punteggio.
 intermedio: il giocatore disporrà di 4 minuti.
-difficile: il giocatore disporrà di 3 minuti.
+difficile: il giocatore avrà a disposizione soli 3 minuti.
 
 ## CODING-MATEMATICA
 Nella compresenza matematica-coding, quest'anno, abbiamo pensato questo gioco basandoci sulle competenze acquisite del calcolo combinatorio,
