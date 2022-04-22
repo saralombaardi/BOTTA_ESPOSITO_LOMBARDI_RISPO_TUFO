@@ -76,3 +76,10 @@ La probabilità di un evento E è il rapporto fra il numero dei casi favorevoli 
 Il numero dei casi favorevoli F è sempre minore o uguale al numero dei casi possibili, la probabilità di un evento è quindi sempre compresa tra 0 e 1.
 Se F = U poichè il numero dei casi favorevoli è uguale al numero dei casi possbili : p(E) = 1, l'evento è certo
 Se F = 0 poiche il numero dei casi favorevoli è nullo, p(E) = 0, l'evento è impossibile.
+
+
+## COLLEGAMENTO ALLA TEORIA
+Possiamo notare quindi,come le regole del calcolo combinatorio e della probabilità vengono applicate al nostro gioco perchè :
+-le lettere all’interno della griglia vengono generate tramite le regole di permutazioni, disposizioni e combinazioni. 
+-la probabilità viene calcolata in base alle parole che si possono formare con le lettere che appaiono nella griglia.
+
